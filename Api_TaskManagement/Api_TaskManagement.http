@@ -1,0 +1,112 @@
+﻿
+POST https://localhost:7213/api/task
+Content-Type: application/json
+{
+  "id": 1,
+  "title": "CatReloaded Task",
+  "status": "In Progress",
+  "priority": "High",
+  "description": "Finish the implementation of the CatReloaded task management API"
+}
+
+###
+
+POST https://localhost:7213/api/task
+Content-Type: application/json
+{
+  "id": 2,
+  "title": "studing",
+  "status": "not-completed",
+  "priority": "High",
+  "description": "Finish the implementation of the CatReloaded task management API"
+}
+###
+
+POST https://localhost:7213/api/Task
+Content-Type: application/json
+
+{
+  "id": 3,
+  "title": "Fix Bugs",
+  "status": "In Progress",
+  "priority": "High",
+  "description": "Fix the null reference exception in the login page"
+}
+
+###
+
+POST https://localhost:7213/api/Task
+Content-Type: application/json
+
+{
+  "id": 4,
+  "title": "Grocery Shopping",
+  "status": "Pending",
+  "priority": "Low",
+  "description": "Buy milk, eggs, and coffee for the week"
+}
+
+###
+
+POST https://localhost:7213/api/Task
+Content-Type: application/json
+
+{
+  "id": 5,
+  "title": "Read Clean Code Book",
+  "status": "Pending",
+  "priority": "Medium",
+  "description": "Read chapter 3 about functions and naming conventions"
+}
+
+###
+
+POST https://localhost:7213/api/Task
+Content-Type: application/json
+
+{
+  "id": 6,
+  "title": "Morning Workout",
+  "status": "Completed",
+  "priority": "Medium",
+  "description": "30 minutes cardio and stretching"
+}
+
+### 
+
+GET https://localhost:7213/api/task
+
+###
+
+PUT https://localhost:7213/api/task/1
+Content-Type: application/json
+{
+  "id": 1,
+  "title": "CatReloaded Task",
+  "status": "Completed",
+  "priority": "High",
+  "description": "Finished (CatReloaded task) management API Task"
+}
+
+### 
+
+PUT https://localhost:7213/api/task/2
+Content-Type: application/json
+{
+  "id": 2,
+  "title": "studing",
+  "status": "completed",
+  "priority": "High",
+  "description": "Finish the implementation of the CatReloaded task management API"
+}
+
+### 
+
+GET https://localhost:7213/api/task
+
+### 
+
+DELETE https://localhost:7213/api/task/5
+
+### 
+

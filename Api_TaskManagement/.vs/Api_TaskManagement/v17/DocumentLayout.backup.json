@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\T.B\\Desktop\\c#\\Api_TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAF663C-0C05-4916-833B-36AC4311B288}|Api_TaskManagement.csproj|c:\\users\\t.b\\desktop\\c#\\api_taskmanagement\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAF663C-0C05-4916-833B-36AC4311B288}|Api_TaskManagement.csproj|solutionrelative:controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAF663C-0C05-4916-833B-36AC4311B288}|Api_TaskManagement.csproj|c:\\users\\t.b\\desktop\\c#\\api_taskmanagement\\api_taskmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4BAF663C-0C05-4916-833B-36AC4311B288}|Api_TaskManagement.csproj|solutionrelative:api_taskmanagement.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Api_TaskManagement.http",
+              "DocumentMoniker": "C:\\Users\\T.B\\Desktop\\c#\\Api_TaskManagement\\Api_TaskManagement.http",
+              "RelativeDocumentMoniker": "Api_TaskManagement.http",
+              "ToolTip": "C:\\Users\\T.B\\Desktop\\c#\\Api_TaskManagement\\Api_TaskManagement.http",
+              "RelativeToolTip": "Api_TaskManagement.http",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAwwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-15T14:15:54.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\T.B\\Desktop\\c#\\Api_TaskManagement\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\T.B\\Desktop\\c#\\Api_TaskManagement\\Controllers\\TaskController.cs*",
+              "RelativeToolTip": "Controllers\\TaskController.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwCwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T11:00:40.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
